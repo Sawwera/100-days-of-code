@@ -28,3 +28,7 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 0: January 4, 2021 
+
+**Today's Progress**: Today I started out planning what I am going to learn in the next 100 days. First, I am a newbie to coding and I have a strong interest in building web apps. SO, I need to have a strong foundation of the web development. I am going to learn the HTML and CSS from scratch. I am going to spend the next 2 days learning about HTML and CSS. Then I will start to explore the frontend; Javascript. 
